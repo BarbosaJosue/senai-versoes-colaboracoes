@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T16:19:38.228Z" agent="5.0 (Windows)" etag="YA4Fy-UIy7xyHnHQIgqN" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T16:23:39.440Z" agent="5.0 (Windows)" etag="dyTIL8XZQTZgK9N1dzMC" version="15.9.6" type="github">
   <diagram id="c-UCe-3wYkse3ktO9Hgi" name="Page-1">
     <mxGraphModel dx="868" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="j1DzfyWoOEW-tvMOQWZR-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="j1DzfyWoOEW-tvMOQWZR-18" target="j1DzfyWoOEW-tvMOQWZR-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j1DzfyWoOEW-tvMOQWZR-18" value="&lt;div style=&quot;font-size: 9px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Cadastro não &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;permitido, limite de&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;participante atingido&lt;/font&gt;&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="j1DzfyWoOEW-tvMOQWZR-18" value="&lt;div style=&quot;font-size: 9px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Cadastro não permitido&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;&quot;Limite de&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;participante atingido&quot;&lt;/font&gt;&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="610" y="-341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j1DzfyWoOEW-tvMOQWZR-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="j1DzfyWoOEW-tvMOQWZR-30" target="j1DzfyWoOEW-tvMOQWZR-32" edge="1">
@@ -94,7 +94,7 @@
         <mxCell id="j1DzfyWoOEW-tvMOQWZR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="j1DzfyWoOEW-tvMOQWZR-47" target="j1DzfyWoOEW-tvMOQWZR-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j1DzfyWoOEW-tvMOQWZR-47" value="&lt;div&gt;&lt;b&gt;Idade não&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;permitida&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j1DzfyWoOEW-tvMOQWZR-47" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Idade não&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;permitida&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&quot;Participante não cadastrado&quot;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="-221" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j1DzfyWoOEW-tvMOQWZR-48" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Fim&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -124,13 +124,13 @@
         <mxCell id="j1DzfyWoOEW-tvMOQWZR-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="j1DzfyWoOEW-tvMOQWZR-57" target="j1DzfyWoOEW-tvMOQWZR-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j1DzfyWoOEW-tvMOQWZR-57" value="&lt;div style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;Limite máximo de &lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;cadastro atingido&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 9px&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;100 pessoas&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="j1DzfyWoOEW-tvMOQWZR-57" value="&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Limite máximo de &lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;cadastro atingido&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;100 pessoas&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="410" y="-341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j1DzfyWoOEW-tvMOQWZR-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" parent="1" source="j1DzfyWoOEW-tvMOQWZR-59" target="j1DzfyWoOEW-tvMOQWZR-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j1DzfyWoOEW-tvMOQWZR-59" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Informar o limite máximo de 100 participantes&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j1DzfyWoOEW-tvMOQWZR-59" value="Permitir cadastro" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j1DzfyWoOEW-tvMOQWZR-60" value="Fim do cadastro" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
